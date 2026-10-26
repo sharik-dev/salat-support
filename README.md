@@ -12,6 +12,7 @@ La direction artistique est celle de l'app : crème, sable, or, encre brune, tit
 serif, et les blocs portent le contour épais + la face extrudée du langage de formes.
 Si la DA de l'app bouge, `style.css` bouge avec.
 
-`privacy.html` décrit deux choses que le code doit continuer de rendre vraies : aucune
-requête réseau, et les enregistrements vocaux qui ne quittent pas l'appareil. Les
+`privacy.html` décrit deux choses que le code doit continuer de rendre vraies : la seule
+requête réseau est celle des pubs Google AdMob (depuis la 1.2), et les enregistrements
+vocaux ne quittent pas l'appareil. Les
 modifier dans l'app sans les modifier ici transforme cette page en déclaration fausse.
